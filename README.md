@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pratyush gupta
-- A sophomore at IIT kanpur
+- 👨‍🎓A sophomore at IIT kanpur
 - 👀 I’m interested in Machine learning, deep learning and Web devlopment
 - 🌱 I’m currently learning React and other frameworks
 - 💞️ I’m looking to collaborate on projects on the intersection of ML and webdev
