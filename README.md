@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pratyushguptanotnoob
+- 👋 Hi, I’m Pratyush gupta
 - A sophomore at IIT kanpur
 - 👀 I’m interested in Machine learning, deep learning and Web devlopment
 - 🌱 I’m currently learning React and other frameworks
